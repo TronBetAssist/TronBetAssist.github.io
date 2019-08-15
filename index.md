@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Tron Bet Assist
 
-You can use the [editor on GitHub](https://github.com/TronBetAssist/TronBetAssist.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Tron Bet Assist is a windows-based application that will help automate bets on the WINK platform. The app will allow your automated bets to become more "smarter". For example, in the DICE game, it will bet higher amounts of TRX when it detects 2 or 3 consecutive losses (you choose 2 or 3).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For the time being, the features are minimal and is only made for DICE. But, If the tool gains more traction and higher usage, I will add more betting scenarios and perhaps other games. Such as auto-betting X amount of spins after gold is detected in RING.
+
+<span>Hello</span>
 
 ### Markdown
 
@@ -11,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Tron Bet Assist
 ## Header 2
 ### Header 3
 
