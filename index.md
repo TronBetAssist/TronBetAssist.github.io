@@ -10,7 +10,7 @@ For the time being, the features are minimal and is only made for DICE. But, If 
 Windows OS
 
 ## Installation
-<a>Download this</a> and run it
+<a href="tronbetassist-autodice.exe">Download File</a> and run it
 
 ## Donation
 If you find this application helpful and would like to support me for my efforts, please donate what you can. Every little bit helps me out.
