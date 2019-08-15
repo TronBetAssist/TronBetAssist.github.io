@@ -12,7 +12,7 @@ Windows OS
 ## Installation
 <a href="tronbetassist-autodice.exe">Download File</a> and Run it
 
-- Any issues with the app, please go [here](https://github.com/TronBetAssist/TronBetAssist.github.io/issues) and click "New Issue"
+*Any issues with the app, please go [here](https://github.com/TronBetAssist/TronBetAssist.github.io/issues) and click "New Issue"
 
 ## Donation
 If you find this application helpful and would like to support me for my efforts, please donate what you can. Every little bit helps me out.
