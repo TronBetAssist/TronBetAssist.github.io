@@ -18,7 +18,7 @@ Windows OS
 
 2. Run the exe
 
-*Any issues with the app, please go [here](https://github.com/TronBetAssist/TronBetAssist.github.io/issues) and click "New Issue"
+*Any problems with the app or recommendations for features, please go [here](https://github.com/TronBetAssist/TronBetAssist.github.io/issues) and click "New Issue"
 
 
 ## How to use Dice Assist
