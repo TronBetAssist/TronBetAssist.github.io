@@ -4,15 +4,15 @@ Is a windows-based application that will help automate bets on the WINK platform
 
 For the time being, the features are minimal and is only made for DICE. But, If the tool gains more traction and higher usage, I will add more betting scenarios and perhaps other games. Such as auto-betting X amount of spins after gold is detected in RING.
 
-Autodice
+DiceAssist
 
 <img src="https://raw.githubusercontent.com/TronBetAssist/TronBetAssist.github.io/master/diceassist_screenshot.png" width="100">
 
 ## Requirements
 Windows OS
 
-## Installation (Autodice)
-1. <a href="tronbetassist-autodice.exe">Download autodice.exe</a>
+## Installation (DiceAssist)
+1. <a href="diceassist.exe">Download diceassist.exe</a>
 
 2. Run the exe
 
