@@ -1,4 +1,4 @@
-# Tron Bet Assist
+## Tron Bet Assist
 
 ### Intro
 Tron Bet Assist is a windows-based application that will help automate bets on the WINK platform. The app will allow your automated bets to become more "smarter". For example, in the DICE game, it will bet higher amounts of TRX when it detects 2 or 3 consecutive losses (you choose 2 or 3).
