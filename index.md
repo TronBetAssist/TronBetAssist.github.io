@@ -14,9 +14,9 @@ Windows OS
 ## Installation (Autodice)
 1.<a href="tronbetassist-autodice.exe">Download autodice.exe</a>
 
-2. Run the exe
+2.Run the exe
 
-3. It will create a screenshots folder, keep this folder with the exe (otherwise the application will not function properly)
+3.It will create a screenshots folder, keep this folder with the exe (otherwise the application will not function properly)
 
 
 *Any issues with the app, please go [here](https://github.com/TronBetAssist/TronBetAssist.github.io/issues) and click "New Issue"
