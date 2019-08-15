@@ -14,7 +14,7 @@ Windows OS
 
 
 ## Installation (Dice Assist)
-1. <a href="diceassist.exe">Download diceassist.exe</a>
+1. <a href="diceassist.exe">Download diceassist.exe</a> (DO NOT download from any other source except here)
 
 2. Run the exe
 
