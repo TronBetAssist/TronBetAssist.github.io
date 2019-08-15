@@ -4,14 +4,14 @@ Is a windows-based application that will help automate bets on the WINK platform
 
 For the time being, the features are minimal and is only made for DICE. But, If the tool gains more traction and higher usage, I will add more betting scenarios and perhaps other games. Such as auto-betting X amount of spins after gold is detected in RING.
 
-DiceAssist
+Dice Assist
 
 <img src="https://raw.githubusercontent.com/TronBetAssist/TronBetAssist.github.io/master/diceassist_screenshot.png" width="100">
 
 ## Requirements
 Windows OS
 
-## Installation (DiceAssist)
+## Installation (Dice Assist)
 1. <a href="diceassist.exe">Download diceassist.exe</a>
 
 2. Run the exe
@@ -20,6 +20,19 @@ Windows OS
 
 
 *Any issues with the app, please go [here](https://github.com/TronBetAssist/TronBetAssist.github.io/issues) and click "New Issue"
+
+## How to use Dice Assist
+1. After installation, run diceassist.exe (if it's not already running)
+
+2. Choose your options on the Dice Assist UI
+
+3. Click Start!
+
+4. If you haven't already authenticated your TRX Wallet App, you will get a prompt to do so. Choose "Until next Login" to allow the application run indefinitely.
+
+Press F4 to stop/reset the application
+
+Don't touch your mouse or keyboard as this may interrupt the application
 
 ## Donation
 If you find this application helpful and would like to support me for my efforts, please donate what you can. Every little bit helps me out.
