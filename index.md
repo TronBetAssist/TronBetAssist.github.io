@@ -11,11 +11,12 @@ For the time being, the features are minimal and is only made for DICE. But, If 
 Windows
 
 ### Installation
+<a>Download this</a> and run it
 
 ### Donation
-If you find this application helpful and would like to support me for my efforts, please donate what you can. Every little bit helps.
+If you find this application helpful and would like to support me for my efforts, please donate what you can. Every little bit helps me out.
 
-TRX: 
+TRX: TTXUwNaCosSMwNxehmfz8Dd6WHwNmwgDdy
 
 ### Markdown
 
