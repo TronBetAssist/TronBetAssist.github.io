@@ -22,13 +22,13 @@ Windows OS
 *Any issues with the app, please go [here](https://github.com/TronBetAssist/TronBetAssist.github.io/issues) and click "New Issue"
 
 ## How to use Dice Assist
-1. After installation, run diceassist.exe (if it's not already running)
+1. Go to WINK.org and open the DICE game, make sure the current prediction is at 50
 
-2. Choose your options on the Dice Assist UI
+2. Run Dice Assist and choose your options
 
 3. Click Start!
 
-4. If you haven't already authenticated your TRX Wallet App, you will get a prompt to do so. Choose "Until next Login" to allow the application run indefinitely.
+If you haven't already authenticated your TRX Wallet App, you will get a prompt to do so. Choose "Until next Login" to allow the application run indefinitely.
 
 **Press F4 to stop/reset the application**
 
