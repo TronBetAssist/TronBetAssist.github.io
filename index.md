@@ -30,9 +30,9 @@ Windows OS
 
 4. If you haven't already authenticated your TRX Wallet App, you will get a prompt to do so. Choose "Until next Login" to allow the application run indefinitely.
 
-Press F4 to stop/reset the application
+**Press F4 to stop/reset the application**
 
-Don't touch your mouse or keyboard as this may interrupt the application
+**Don't touch your mouse or keyboard as this may interrupt the application**
 
 ## Donation
 If you find this application helpful and would like to support me for my efforts, please donate what you can. Every little bit helps me out.
